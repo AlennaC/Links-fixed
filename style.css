@@ -1,0 +1,27 @@
+.pet-info {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    max-width: 1fr;
+    max-height: 500px;
+}
+
+h4 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:lighter;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.cat1 {
+    color: #794211;
+    background-color: #f9f1eb;
+}
+
+.cat2 {
+    color: #0a4aa4;
+    background-color: #e2edfd;
+}
