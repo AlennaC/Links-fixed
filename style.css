@@ -1,5 +1,9 @@
+p { 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
 .pet-info {
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 img {
